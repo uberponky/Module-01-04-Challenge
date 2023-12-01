@@ -37,12 +37,12 @@ Access the website via (add link).
 The website is fully public and does not require any credentials to access. Enjoy!
 
 ```md
-![Horiseon Homepage - December 2023](assets/images/screenshot.png)
+![Horiseon Homepage - December 2023](./horiseon-homepage.png)
 ```
 
 
 ## Credits
-Rory Simmonds
+Rory Simmonds</br>
 The Instructor and TA's at edX Boot Camps
 
 

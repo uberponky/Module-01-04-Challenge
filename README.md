@@ -42,7 +42,7 @@ The website is fully public and does not require any credentials to access. Enjo
 
 
 ## Credits
-Rory Simmonds__
+Rory Simmonds</br>
 The Instructor and TA's at edX Boot Camps
 
 

@@ -37,7 +37,7 @@ Access the website via (add link).
 The website is fully public and does not require any credentials to access. Enjoy!
 
 ```md
-![Horiseon Homepage - December 2023](./horiseon-homepage.png)
+![Horiseon Homepage - December 2023](horiseon-homepage.png)
 ```
 
 

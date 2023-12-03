@@ -8,9 +8,7 @@ The website is built using HTML and CSS, with a focus on providing a modern, acc
 
 The website is currently only responsive for Desktop, but the aim is to add support for multiple devices including mobile.
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 * [Horiseon](#horiseon)
 * [Installation](#installation)
@@ -36,9 +34,7 @@ Access the website via (add link).
 
 The website is fully public and does not require any credentials to access. Enjoy!
 
-```md
-![Horiseon Homepage - December 2023](./horiseon-homepage.png)
-```
+![Horiseon Homepage - December 2023](/horiseon-homepage.png)
 
 
 ## Credits

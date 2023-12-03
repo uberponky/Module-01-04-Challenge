@@ -9,6 +9,22 @@ body {
     background-color: #d9dcd6;
 }
 
+/**
+ * General positioning rules
+ *
+ * These are currently only used for services, but can be used in any div
+ * containing multiple sections
+ */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Header */
 header {
     padding: 20px;
@@ -58,22 +74,6 @@ header nav ul li {
     background-position: center;
 }
 
-/**
- * General positioning rules
- *
- * These are currently only used for services, but can be used in any div
- * containing multiple sections
- */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Services*/
 .services {
     width: 75%;
@@ -99,6 +99,7 @@ header nav ul li {
     font-size: 36px;
 }
 
+/* Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -110,7 +111,6 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-/* Benefits */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;

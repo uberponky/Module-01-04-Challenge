@@ -25,12 +25,12 @@ We are a multi-faceted company with a focus on solutions to digital marketing ch
 
 
 ## Installation
-The website is deployed at (add link). No installation is required.
+The website is deployed at [(add link](https://uberponky.github.io/Module-01-04-Challenge/)). No installation is required.
 
 
 ## Usage 
 
-Access the website via (add link).
+Access the website via https://uberponky.github.io/Module-01-04-Challenge/
 
 The website is fully public and does not require any credentials to access. Enjoy!
 

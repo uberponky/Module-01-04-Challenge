@@ -25,7 +25,7 @@ We are a multi-faceted company with a focus on solutions to digital marketing ch
 
 
 ## Installation
-The website is deployed [(here](https://uberponky.github.io/Module-01-04-Challenge/)). No installation is required.
+The website is deployed [here](https://uberponky.github.io/Module-01-04-Challenge/). No installation is required.
 
 
 ## Usage 
